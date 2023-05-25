@@ -1,3 +1,3 @@
-# Algoritms and data structure progect
+# Algoritms and data structure progect 2021/2022
 
- In collaboration with @c
+ In collaboration with Cosmin Lavric (@Cosmok21)
